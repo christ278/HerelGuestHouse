@@ -304,7 +304,7 @@ html,body{
 	background: url(../../assets/images/home/newback.jpg)no-repeat;
 	background-size: cover;
 	background-position: center;
-	min-height: 1000px;
+	min-height: 800px;
 }
 .about-us:before{
 	position: absolute;
@@ -972,10 +972,12 @@ html,body{
     -ms-transition:.5s; 
     -o-transition:.5s;
     transition: .5s;
+    height: 320px;
 }
 .home1-testm-single:hover {
     box-shadow: 0 0 30px rgba(0,0,0,.3);
 }
+
 .home1-testm.item {
     padding-top: 74px;
     padding-bottom: 30px;
